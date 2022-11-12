@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Food-Ka-Fanda/static/css/main.3305b532.css",
+    "main.js": "/Food-Ka-Fanda/static/js/main.33f7ea56.js",
+    "index.html": "/Food-Ka-Fanda/index.html",
+    "main.3305b532.css.map": "/Food-Ka-Fanda/static/css/main.3305b532.css.map",
+    "main.33f7ea56.js.map": "/Food-Ka-Fanda/static/js/main.33f7ea56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3305b532.css",
+    "static/js/main.33f7ea56.js"
+  ]
+}
