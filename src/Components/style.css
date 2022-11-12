@@ -1,0 +1,116 @@
+.cur-po{
+    cursor: pointer;
+}
+.shopping-cart-icon{
+    font-size: 22px;
+}
+.nav-brand{
+    font-size: 25px;
+}
+i.fa-solid.fa-xmark {
+    text-align: right;
+    width: 100%;
+    padding-right: 10%;
+}
+img.gifcart {
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+}
+.header-menu-wrapper {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+p {
+    margin: 0 !important;
+}
+ul.MuiList-root.MuiList-padding.MuiMenu-list.css-6hp17o-MuiList-root-MuiMenu-list {
+    padding: 10px 17px;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiPaper-root.MuiMenu-paper.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+    top: 42px !important;
+    left: 1025px !important;
+    width: 324px !important;
+}
+.card-img{
+    height: 16rem;
+    object-fit: cover;
+}
+.card-style{
+    cursor: pointer;
+    transition: .3s; 
+}
+.card-style:hover{
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.288);
+}
+p.card-text {
+    margin-bottom: 10px !important;
+}
+button.btn.btn-primary {
+    width: 100%;
+}
+.items-details {
+    padding: 10px 22px;
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.082);
+}
+.items-img{
+    flex: .4;
+}
+.items-img img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 5px;
+    object-fit: cover;
+}
+tbody {
+    border-style: hidden !important;
+}
+.table>tbody {
+    vertical-align: middle !important;
+}
+img.add-to-cart-sec-img {
+    height: 5rem;
+    width: 5rem;
+    object-fit: cover;
+}
+.added-cart-sec-table{
+    width: 100%;
+}
+.added-cart-sec-thead-tr th{
+    padding-bottom: 10px;
+}
+.add-cart-sec-tbody-tr{
+    height: 125px;
+}
+.add-cart-tbody-trash{
+    padding-right: 8px;
+}
+.smalltrash{
+    display: none;
+}
+.empty-cart {
+    text-align: center;
+}
+a.empty-cart-back-to-home.text-decoration-none.text-dark {
+    border: 0.5px solid;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: rgb(252, 186, 3);
+    font-size: 18px;
+    font-weight: 400;
+}
+.header-cart-grand-total {
+    font-size: 15px;
+    font-weight: 500;
+}
+.header-add-to-cart-hr{
+    width: 252%;
+}
